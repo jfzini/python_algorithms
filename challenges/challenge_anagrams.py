@@ -1,3 +1,4 @@
+# base of merge sort algorithm taken from Programação Dinâmica YouTube channel
 def merge_sort(str_list, start=0, end=None):
     if end is None:
         end = len(str_list)
